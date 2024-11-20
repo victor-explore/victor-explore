@@ -1,5 +1,5 @@
-- 📚 Read my free machine learning book: https://tinyurl.com/mstwwp9p
-- 🤖 Read my free deep learning book: https://tinyurl.com/mr48tzre
+- 📚 Read my free Machine Learning book: https://tinyurl.com/mstwwp9p
+- 🤖 Read my free Deep Learning book: https://tinyurl.com/mr48tzre
 - 💻 Code for Machine learning algorithms from scratch: https://tinyurl.com/bdh3t8fc
 - 🧠 My blog: https://tinyurl.com/ymttbkxw
 - 🐦 Connect with me on X: https://x.com/victor_explore
