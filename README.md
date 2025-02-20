@@ -1,3 +1,4 @@
+- 👬 Discord community: https://discord.com/invite/dUQMX73P
 - 📚 Read my free Machine Learning book: https://tinyurl.com/mstwwp9p
 - 🤖 Read my free Deep Learning book: https://tinyurl.com/mr48tzre
 - 💻 Code for Machine learning algorithms from scratch: https://tinyurl.com/bdh3t8fc
