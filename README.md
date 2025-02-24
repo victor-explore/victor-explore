@@ -1,29 +1,20 @@
 ### 📚 Read my free books
 
-- 🎓 [Machine Learning Book](https://tinyurl.com/mstwwp9p) - Comprehensive guide to ML fundamentals
-- 🤖 [Deep Learning Book](https://tinyurl.com/mr48tzre) - In-depth coverage of neural networks and DL
+- 🎓 [Machine Learning Book](https://tinyurl.com/mstwwp9p)
+- 🤖 [Deep Learning Book](https://tinyurl.com/mr48tzre)
 
 ### 🎯 Learn AI for Free!
 
-- 🗺️ [Complete AI Expert Roadmap](https://buymeacoffee.com/victor_explore/e/377268) - Step-by-step guide to mastering AI
-- 👥 [Join our Learning Community](https://discord.com/invite/QHAbprqQme) - Connect with fellow AI enthusiasts
+- 🗺️ [Complete AI Expert Roadmap](https://buymeacoffee.com/victor_explore/e/377268)
+- 👥 [Join our Learning Community](https://discord.com/invite/QHAbprqQme)
 
-- 💻 [ML From Scratch](https://tinyurl.com/bdh3t8fc) - Hands-on implementations of ML algorithms
+### 📚 Read my handwritten notes
 
-### Handwritten Notes Collection
-
-#### Mathematics & Theory
-
-- 📐 [Linear Algebra Basics](https://tinyurl.com/y75e3pmh) - Foundational concepts
-- 📊 [Advanced Linear Algebra](https://tinyurl.com/4nujfkbf) - Advanced topics & applications
-- 🎲 [Probability Fundamentals](https://tinyurl.com/yrhvbkr8) - Core probability theory
-- 📈 [Advanced Probability](https://tinyurl.com/u48r6xx) - Advanced statistical concepts
-- ⚡ [Optimization Techniques](https://tinyurl.com/4tuz6xbc) - Mathematical optimization methods
-- 🎮 [Game Theory](https://tinyurl.com/2j43rb5j) - Strategic decision making
-- 🔄 [Algorithms](https://tinyurl.com/yvmvx6hn) - Computer science algorithms
-
-### Connect With Me
-
-- 💬 [Join our Discord Community](https://discord.com/invite/QHAbprqQme) - Discuss ML, DL & more
-- 📝 [Read my Blog](https://tinyurl.com/ymttbkxw) - Latest insights & tutorials
-- 🐦 [Follow me on X](https://x.com/victor_explore) - Stay updated with my work
+- 📐 [Linear Algebra (Basics)](https://tinyurl.com/mstwwp9p)
+- 📊 [Linear Algebra (Advanced)](https://tinyurl.com/mstwwp9p)
+- 🎲 [Probability (Basics)](https://tinyurl.com/mstwwp9p)
+- 📈 [Probability (Advanced)](https://tinyurl.com/mstwwp9p)
+- ⚡ [Optimization](https://tinyurl.com/mstwwp9p)
+- 🎮 [Game Theory](https://tinyurl.com/mstwwp9p)
+- 🔍 [Data Structures](https://tinyurl.com/mstwwp9p)
+- ⚙️ [Algorithms](https://tinyurl.com/mstwwp9p)
