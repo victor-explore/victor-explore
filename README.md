@@ -8,7 +8,7 @@
 - 🗺️ [Complete AI Expert Roadmap](https://buymeacoffee.com/victor_explore/e/377268)
 - 👥 [Join our Learning Community](https://discord.com/invite/QHAbprqQme)
 
-### 📚 Read my handwritten notes
+### 📚 Read my handwritten notes for free
 
 - 📐 [Linear Algebra (Basics)](https://tinyurl.com/mstwwp9p)
 - 📊 [Linear Algebra (Advanced)](https://tinyurl.com/mstwwp9p)
