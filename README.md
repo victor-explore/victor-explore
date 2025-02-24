@@ -1,9 +1,8 @@
-## 📚 Free Educational Resources
-
-### Books & Learning Materials
+## 📚 Read my free books
 
 - 🎓 [Machine Learning Book](https://tinyurl.com/mstwwp9p) - Comprehensive guide to ML fundamentals
 - 🤖 [Deep Learning Book](https://tinyurl.com/mr48tzre) - In-depth coverage of neural networks and DL
+
 - 💻 [ML From Scratch](https://tinyurl.com/bdh3t8fc) - Hands-on implementations of ML algorithms
 
 ### Handwritten Notes Collection
