@@ -3,32 +3,31 @@
 - 📗 [Machine Learning Book](https://tinyurl.com/mstwwp9p)
 - 🧠 [Deep Learning Book](https://tinyurl.com/mr48tzre)
 
-### 🎯 Learn AI for Free!
+### 🎯 Learn AI for Free
 
-- 🗺️ [Complete AI Expert Roadmap](https://buymeacoffee.com/victor_explore/e/377268)
-- 🤝 [Join our Learning Community](https://discord.com/invite/QHAbprqQme)
+- 🗺️ [Complete AI Roadmap & Learning Community](https://discord.gg/QHAbprqQme)
 
 ### 📚 Read my handwritten notes for free
 
-- 📐 [Linear Algebra (Basics)](https://tinyurl.com/mstwwp9p)
-- 📊 [Linear Algebra (Advanced)](https://tinyurl.com/mstwwp9p)
-- 🎲 [Probability (Basics)](https://tinyurl.com/mstwwp9p)
-- 📈 [Probability (Advanced)](https://tinyurl.com/mstwwp9p)
-- ⚡ [Optimization](https://tinyurl.com/mstwwp9p)
-- 🎮 [Game Theory](https://tinyurl.com/mstwwp9p)
-- 🌳 [Data Structures](https://tinyurl.com/mstwwp9p)
-- ⚙️ [Algorithms](https://tinyurl.com/mstwwp9p)
+- 📐 [Linear Algebra (Basics)](https://buymeacoffee.com/victor_explore/e/377511)
+- 📊 [Linear Algebra (Advanced)](https://buymeacoffee.com/victor_explore/e/377516)
+- 🎲 [Probability (Basics)](https://buymeacoffee.com/victor_explore/e/377519)
+- 📈 [Probability (Advanced)](https://buymeacoffee.com/victor_explore/e/377521)
+- ⚡ [Optimization](https://buymeacoffee.com/victor_explore/e/377528)
+- 🎮 [Game Theory](https://buymeacoffee.com/victor_explore/e/377532)
+- 🌳 [Data Structures](https://buymeacoffee.com/victor_explore/e/378162)
+- ⚙️ [Algorithms](https://buymeacoffee.com/victor_explore/e/377533)
 
 ### 🎓 IISC Bangalore Resources
 
-- 📝 [AI Assignments](https://tinyurl.com/mstwwp9p)
-- 📋 [AI Q Papers](https://tinyurl.com/mstwwp9p)
+- 📝 [AI Assignments](https://github.com/victor-explore/AI-Assignments-IISC-Banglore)
+- 📋 [AI Q Papers](https://github.com/victor-explore/AI-Q-Papers-IISC-Banglore)
 
 ### 🌐 Connect with me
 
 - 🐦 [My X account](https://x.com/victor_explore)
-- ✍️ [My blogs](https://tinyurl.com/mstwwp9p)
+- ✍️ [My blogs](https://victor-explore.github.io/posts/)
 
 ### 💝 Support Me
 
-- ☕ [Buy me a coffee](https://tinyurl.com/mstwwp9p)
+- ☕ [Buy me a coffee](https://buymeacoffee.com/victor_explore)
