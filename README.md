@@ -3,6 +3,11 @@
 - 🎓 [Machine Learning Book](https://tinyurl.com/mstwwp9p) - Comprehensive guide to ML fundamentals
 - 🤖 [Deep Learning Book](https://tinyurl.com/mr48tzre) - In-depth coverage of neural networks and DL
 
+### 🎯 Learn AI for Free!
+
+- 🗺️ [Complete AI Expert Roadmap](https://buymeacoffee.com/victor_explore/e/377268) - Step-by-step guide to mastering AI
+- 👥 [Join our Learning Community](https://discord.com/invite/QHAbprqQme) - Connect with fellow AI enthusiasts
+
 - 💻 [ML From Scratch](https://tinyurl.com/bdh3t8fc) - Hands-on implementations of ML algorithms
 
 ### Handwritten Notes Collection
