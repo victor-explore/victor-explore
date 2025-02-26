@@ -7,7 +7,11 @@
 
 - [Complete AI Roadmap & Learning Community](https://discord.gg/QHAbprqQme)
 
-### 📚 Read my handwritten notes for free
+### Keep up to date with AI progress
+
+- [Directory of AI Resources](https://github.com/victor-explore/AI-Content-Creators)
+
+- [### 📚 Read my handwritten notes for free
 
 - [Linear Algebra (Basics)](https://buymeacoffee.com/victor_explore/e/377511)
 - [Linear Algebra (Advanced)](https://buymeacoffee.com/victor_explore/e/377516)
@@ -28,6 +32,6 @@
 - [My X account](https://x.com/victor_explore)
 - [My blogs](https://victor-explore.github.io/posts/)
 
-### 😊 Support Me
+### 💝 Support Me
 
 - [Buy me a coffee](https://buymeacoffee.com/victor_explore)
