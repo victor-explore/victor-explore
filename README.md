@@ -13,14 +13,14 @@
 
 ### 📚 Read my handwritten notes for free
 
-- [Linear Algebra (Basics)](https://buymeacoffee.com/victor_explore/e/377511)
-- [Linear Algebra (Advanced)](https://buymeacoffee.com/victor_explore/e/377516)
-- [Probability (Basics)](https://buymeacoffee.com/victor_explore/e/377519)
-- [Probability (Advanced)](https://buymeacoffee.com/victor_explore/e/377521)
-- [Optimization](https://buymeacoffee.com/victor_explore/e/377528)
-- [Game Theory](https://buymeacoffee.com/victor_explore/e/377532)
-- [Data Structures](https://buymeacoffee.com/victor_explore/e/378162)
-- [Algorithms](https://buymeacoffee.com/victor_explore/e/377533)
+- [Linear Algebra (Basics)](https://ko-fi.com/s/6073454c36)
+- [Linear Algebra (Advanced)](https://ko-fi.com/s/007f5338ee)
+- [Probability (Basics)](https://ko-fi.com/s/142021448f)
+- [Probability (Advanced)](https://ko-fi.com/s/6efea56383)
+- [Optimization](https://ko-fi.com/s/293e2d1674)
+- [Game Theory](https://ko-fi.com/s/cde4448eb9)
+- [Data Structures](https://ko-fi.com/s/30162e31b7)
+- [Algorithms](https://ko-fi.com/s/5f91510db0)
 
 ### 🎓 IISC Bangalore Resources
 
@@ -34,4 +34,4 @@
 
 ### 💝 Support Me
 
-- [Buy me a coffee](https://buymeacoffee.com/victor_explore)
+- [Buy me a coffee](https://ko-fi.com/victor_explore)
