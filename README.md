@@ -11,7 +11,7 @@
 
 - [Directory of AI Resources](https://github.com/victor-explore/AI-Content-Creators)
 
-- [### 📚 Read my handwritten notes for free
+### 📚 Read my handwritten notes for free
 
 - [Linear Algebra (Basics)](https://buymeacoffee.com/victor_explore/e/377511)
 - [Linear Algebra (Advanced)](https://buymeacoffee.com/victor_explore/e/377516)
