@@ -1,4 +1,4 @@
-### 📖 Read my free books
+### 📚 Read my free books
 
 - [Machine Learning Book](https://tinyurl.com/mstwwp9p)
 - [Deep Learning Book](https://tinyurl.com/mr48tzre)
