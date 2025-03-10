@@ -1,4 +1,4 @@
-### 📚 Read my free books
+### 📖 Read my free books
 
 - [Machine Learning Book](https://tinyurl.com/mstwwp9p)
 - [Deep Learning Book](https://tinyurl.com/mr48tzre)
@@ -6,12 +6,13 @@
 ### 🎯 Learn AI for Free
 
 - [Complete AI Roadmap & Learning Community](https://discord.gg/QHAbprqQme)
+- [Library of AI Resources](https://github.com/victor-explore/Machine-Learning-Library)
 
 ### Keep up to date with AI progress
 
 - [Directory of AI Resources](https://github.com/victor-explore/AI-Content-Creators)
 
-### ✍️ Read my handwritten notes for free
+### 📚 Read my handwritten notes for free
 
 - [Linear Algebra (Basics)](https://ko-fi.com/s/6073454c36)
 - [Linear Algebra (Advanced)](https://ko-fi.com/s/007f5338ee)
