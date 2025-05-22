@@ -7,10 +7,19 @@
 
 - [Complete AI Roadmap & Learning Community](https://discord.gg/QHAbprqQme)
 - [Library of AI Resources](https://github.com/victor-explore/Machine-Learning-Library)
+- [AI Agent Builder's Community on X](https://x.com/i/communities/1918880733730603290)
+
+### 🤖 Ready-made AI Agent Templates
+
+- [Buy AI Agent Templates](https://shop.victorexplore.com/)
 
 ### Keep up to date with AI progress
 
 - [Directory of AI Resources](https://github.com/victor-explore/AI-Content-Creators)
+
+### 👨‍💻 Book a 1-to-1 Consultation
+
+- [Schedule a personal consultation](https://shop.victorexplore.com/?section=CVrTEneNQ1hsxLRNWTkfLA%3D%3D)
 
 ### 📚 Read my handwritten notes for free
 
