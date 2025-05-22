@@ -41,7 +41,3 @@
 
 - [My X account](https://x.com/victor_explore)
 - [My blogs](https://victor-explore.github.io/posts/)
-
-### 💝 Support Me
-
-- [Buy me a coffee](https://ko-fi.com/victor_explore)
